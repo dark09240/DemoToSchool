@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  Demo
 //
 //  Created by Lycodes_Dong on 7/1/16.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TableViewController : UITableViewController
 
 @end
-
